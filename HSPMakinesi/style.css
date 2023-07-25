@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.disAlan{
+   padding:10px;
+   text-align: center;
+   background-color: antiquewhite;
+   height: auto;
+   width:40%;
+   border-radius: 10px;
+}
+.input{
+    text-align: center;
+
+}
+.Hesap{
+    font-size: 30px;
+    color:black;
+}
+#sonuç{
+    margin-top: 10px;
+    width: 60%;
+    padding: 10px;
+    height: 60px;
+    border-color: aqua;
+    font-size: 25px;
+    color: red;
+    border-radius: 10px;
+    text-align: end;
+}
+.butonlar{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: yellow;
+    font-size: 20px;
+    padding: 10px;
+    margin: 15px;
+    border-color:red;
+    border-radius: 10px;
+    width: 80px;
+    height: 60px;
+    
+}
